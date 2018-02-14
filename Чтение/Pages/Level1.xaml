@@ -1,0 +1,67 @@
+﻿<Page x:Class="Чтение.Pages.Level1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:l="clr-namespace:Чтение.Localization"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title=" " Background="ForestGreen"> <!--Title="{l:Localization Key=Level1Title}"-->
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <DockPanel LastChildFill="True">
+            <StackPanel Margin="0 30" Orientation="Horizontal" DockPanel.Dock="Top" HorizontalAlignment="Center" MaxHeight="100" Loaded="StackPanel_Loaded"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button x:Name="BackButton" BorderThickness="0" Background="Transparent" Width="50" Height="50" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5"/>
+                    <TextBlock Style="{StaticResource TextBlockStyle}" Text="{l:Localization Key=Base1}" FontSize="36"/>
+                    <!--<Grid Visibility="Collapsed" HorizontalAlignment="Right">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Style="{StaticResource TextBlockStyle}" Text="{l:Localization Key=Search}" FontSize="24"/>
+                    <TextBox Grid.Column="1" Style="{StaticResource TextBoxStyle}" TextChanged="TextBox_TextChanged" MaxWidth="400" HorizontalAlignment="Right" MinWidth="200" TextAlignment="Right" FontSize="24" Margin="7 0"/>
+                </Grid>-->
+                    <WrapPanel Grid.Row="1" x:Name="Base1Buttons" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="1" x:Name="Base2Grid">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Style="{StaticResource TextBlockStyle}" Text="{l:Localization Key=Base2}" FontSize="36"/>
+                    <WrapPanel Orientation="Horizontal" Grid.Row="1" x:Name="Base2Buttons" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+                <Grid Grid.Row="2" Margin="0 30 0 20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="1" x:Name="BaseElse">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button Click="Base3Button_Click" x:Name="Base3Button" Content="{l:Localization Key=Base3}" Style="{StaticResource ButtonStyle}" FontSize="28" Width="200" HorizontalAlignment="Right" Height="40"/>
+                        <Button Click="Base4Button_Click" Grid.Column="1" x:Name="Base4Button" Content="{l:Localization Key=Base4}" Style="{StaticResource ButtonStyle}" FontSize="28" Width="200" Height="40" Margin="30 0"/>
+                        <Button Click="Base5Button_Click" Grid.Column="2" HorizontalAlignment="Left" x:Name="Base5Button" Content="{l:Localization Key=Base5}" Style="{StaticResource ButtonStyle}" FontSize="28" Width="400" Height="40"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </DockPanel>
+    </ScrollViewer>
+</Page>

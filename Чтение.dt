@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H57M34.9556203S" SolutionTotalViewTime="PT3H29M39.4373867S" SolutionTotalDebugTime="PT20M31.7864396S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M33.3321138S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:38:44.1269877+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT20.3554651S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\App.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-13T18:54:26.5864981+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT22.9328542S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\App.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:46:45.2417951+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M55.0515102S" EditActiveTime="PT8.8206448S">
+      <ModifiedDate>2018-01-31T21:21:44.6154521+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Properties\AssemblyInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-31T21:21:28.5432827+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20M31.7864396S" EditActiveTime="PT1.3212466S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>7</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-01-22T18:23:56.2820946+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M14.885497S" EditActiveTime="PT1M11.6192092S">
+      <ModifiedDate>2018-01-22T18:17:58.6817054+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Level6.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:54:58.5339951+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.9707802S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\MainPage.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:27.2041922+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT49M45.4655978S" EditActiveTime="PT19M21.936998S">
+      <ModifiedDate>2018-02-14T20:02:57.0070882+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:36.1920113+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT59M35.243029S" EditActiveTime="PT23M58.8081478S">
+      <ModifiedDate>2018-02-14T18:46:43.0498293+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>6</EditedCount>
+      <ViewedCount>9</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:40.0180922+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34.7818033S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>TextBlock.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-14T16:26:56.6864963+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H34M41.7518517S" EditActiveTime="PT1H12M53.7706205S">
+      <ModifiedDate>2018-02-14T18:18:02.6238976+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>3</EditedCount>
+      <ViewedCount>8</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:20:11.8745663+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT2M33.3311107S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:38:44.1269877+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M4.6870985S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:36:56.1405433+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M9.5757845S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:24:46.4519583+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2.3067506S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:10:28.3276415+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT0.863731S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:10:27.4639105+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.1549015S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-14T21:06:17.2360218+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M30.7419455S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T21:06:03.9676596+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.6050597S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-14T20:03:35.5326336+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M19.4279038S" EditActiveTime="PT13.6445181S">
+      <ModifiedDate>2018-02-14T20:02:57.0070882+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T20:02:32.9319434+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27.0885375S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T20:02:05.8434059+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M27.5338089S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-14T16:37:31.4823603+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT34.7818033S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>TextBlock.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-14T16:26:56.6864963+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M33.184559S" EditActiveTime="PT13M21.4376585S">
+      <ModifiedDate>2018-02-14T18:45:22.0600322+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T16:12:00.1784279+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT33M28.2250814S" EditActiveTime="PT19M3.3774976S">
+      <ModifiedDate>2018-02-14T18:18:02.6238976+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T11:42:28.2376645+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT24M22.7256755S" EditActiveTime="PT8M53.0314738S">
+      <ModifiedDate>2018-02-14T18:46:43.0498293+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T11:12:39.6103462+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M41.124721S" EditActiveTime="PT4M20.3975913S">
+      <ModifiedDate>2018-02-14T10:53:20.1629595+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T10:48:27.4181615+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M33.5204669S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-14T10:44:53.8976946+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT28M45.6267172S" EditActiveTime="PT34M1.0315443S">
+      <ModifiedDate>2018-02-13T22:16:22.8544599+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-13T19:35:06.0635165+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT42.5164609S" EditActiveTime="PT1.3212466S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-02-13T19:24:21.9881356+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20.3554651S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\App.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-13T18:54:26.5864981+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M28.1570104S" EditActiveTime="PT4M43.5374454S">
+      <ModifiedDate>2018-02-13T19:31:26.3779885+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-13T17:50:35.2861831+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8M37.7493688S" EditActiveTime="PT16.3709243S">
+      <ModifiedDate>2018-02-13T19:31:23.8018041+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-13T17:50:22.384683+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT25.5768954S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-04T08:22:36.1495628+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT56.2406928S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-04T08:20:08.7651104+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M21.4395952S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-04T08:19:49.2720536+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT13.4562411S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Properties\AssemblyInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-02-04T08:19:35.7689244+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M41.6002824S" EditActiveTime="PT8.8206448S">
+      <ModifiedDate>2018-01-31T21:21:44.6154521+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Properties\AssemblyInfo.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-31T21:21:28.5432827+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5.3119265S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-01-31T21:20:54.4071957+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.2970126S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-31T21:14:16.8745491+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M54.6576684S" EditActiveTime="PT3M31.0845192S">
+      <ModifiedDate>2018-01-31T21:20:29.0863699+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-31T21:13:24.691676+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M17.0725519S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-31T21:13:06.9066127+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT50.658552S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T20:33:45.8949485+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.4644261S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-01-22T20:33:27.1993537+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M28.0093073S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T20:32:52.5114065+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M51.199856S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2018-01-22T18:23:56.2820946+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT20M12.1963083S" EditActiveTime="PT19M49.3615786S">
+      <ModifiedDate>2018-01-22T19:54:18.3450873+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Managers\WordsTable.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:20:11.8745663+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7M37.078906S" EditActiveTime="PT1M3.317376S">
+      <ModifiedDate>2018-01-22T19:21:37.6354824+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:18:23.4899119+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14.4376429S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\App.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:18:03.5653082+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M41.4535343S" EditActiveTime="PT5M32.69565S">
+      <ModifiedDate>2018-01-22T19:46:25.7079112+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>f:\projects\c# wpf\reading\чтение\чтение\pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:18:00.2287447+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT52.6080398S" EditActiveTime="PT8.0946138S">
+      <ModifiedDate>2018-01-22T18:17:58.6817054+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Level6.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T18:16:59.5150614+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M22.2794621S" EditActiveTime="PT1M3.5245954S">
+      <ModifiedDate>2018-01-22T17:58:07.0336054+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Level6.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:54:58.5339951+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.4952113S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\App.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:46:45.2417951+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M26.7006939S" EditActiveTime="PT1M25.2279892S">
+      <ModifiedDate>2018-01-22T17:53:55.7569646+02:00</ModifiedDate>
+      <ModifiedBy>Panda Eye</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:40.0180922+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3.7678995S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\Pages\Show.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:36.1920113+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT8.9707802S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>F:\Projects\C# WPF\Reading\Чтение\Чтение\MainPage.xaml</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>F:\Projects\C# WPF\Reading\Чтение\Чтение\Чтение.csproj</ProjectName>
+      <CreatedDate>2018-01-22T17:45:27.2041922+02:00</CreatedDate>
+      <ViewedBy>Panda Eye</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
