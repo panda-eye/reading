@@ -172,21 +172,21 @@
             <Setter Property="ShowTitleBar" Value="False"/>
 
             <!-- Close button style -->
-            <Setter Property="WindowCloseButtonStyle">
+            <!--<Setter Property="">
                 <Setter.Value>
                     <Style TargetType="{x:Type Button}">
                         <Setter Property="Width" Value="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"/>
                     </Style>
                 </Setter.Value>
-            </Setter>
+            </Setter>-->
             <!-- Min button style -->
-            <Setter Property="WindowMinButtonStyle">
+            <!--<Setter Property="WindowMinButtonStyle">
                 <Setter.Value>
                     <Style TargetType="{x:Type Button}">
                         <Setter Property="Width" Value="{Binding ActualHeight, RelativeSource={RelativeSource Self}}"/>
                     </Style>
                 </Setter.Value>
-            </Setter>
+            </Setter>-->
         </Style>
 
         <!-- TextBlock -->

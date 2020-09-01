@@ -39,9 +39,9 @@ namespace Чтение.Managers
             new Type("2-сложные слова", "ru-RU"),
             new Type("3-сложные слова", "ru-RU"),
 
-            new Type("1-складні слова", "uk-UA"),
-            new Type("2-складні слова", "uk-UA"),
-            new Type("3-складні слова", "uk-UA")
+            new Type("1-складові слова", "uk-UA"),
+            new Type("2-складові слова", "uk-UA"),
+            new Type("3-складові слова", "uk-UA")
         };
         public static Type[] TypesLvl3 = new[]
         {
@@ -49,9 +49,9 @@ namespace Чтение.Managers
             new Type("2-сложные слова", "ru-RU"),
             new Type("3-сложные слова", "ru-RU"),
 
-            new Type("1-складні слова", "uk-UA"),
-            new Type("2-складні слова", "uk-UA"),
-            new Type("3-складні слова", "uk-UA")
+            new Type("1-складові слова", "uk-UA"),
+            new Type("2-складові слова", "uk-UA"),
+            new Type("3-складові слова", "uk-UA")
         };
         public static Type[] TypesLvl4 = new[]
         {
@@ -61,10 +61,10 @@ namespace Чтение.Managers
             new Type("4-сложные слова", "ru-RU"),
             new Type("Слова с мягкими слогами", "ru-RU"),
 
-            new Type("1-складні слова", "uk-UA"),
-            new Type("2-складні слова", "uk-UA"),
-            new Type("3-складні слова", "uk-UA"),
-            new Type("4-складні слова", "uk-UA"),
+            new Type("1-складові слова", "uk-UA"),
+            new Type("2-складові слова", "uk-UA"),
+            new Type("3-складові слова", "uk-UA"),
+            new Type("4-складові слова", "uk-UA"),
             new Type("Слова з м'якими складами", "uk-UA")
         };
         public static Type[] TypesLvl5 = new[]
@@ -78,8 +78,8 @@ namespace Чтение.Managers
 
             new Type("Словосполучення", "uk-UA"),
             new Type("Слова з м'яким знаком", "uk-UA"),
-            new Type("3-складні слова", "uk-UA"),
-            new Type("4-складні слова", "uk-UA"),
+            new Type("3-складові слова", "uk-UA"),
+            new Type("4-складові слова", "uk-UA"),
             new Type("Склади з розділовим м'яким знаком", "uk-UA"),
             new Type("Склади з апострофом", "uk-UA")
         };

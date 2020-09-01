@@ -1,4 +1,5 @@
 ﻿using SQLite;
+using Чтение.Localization;
 
 namespace Чтение.Managers
 {
@@ -18,6 +19,8 @@ namespace Чтение.Managers
         public string Value { get; set; }
 
         public string Source { get; set; }
+
+        public string Language { get; set; } = LocalizationManager.Instance.CurrentCulture.Name;
 
         public int TypeId { get; set; }
     }

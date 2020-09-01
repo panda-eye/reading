@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
@@ -60,7 +59,8 @@ namespace Чтение.Pages
             Words.Items.Clear();
             try
             {
-                CurrentWords = await Application.Words.Connection.Table<DbWord>().Where(word => word.TypeId == typeId).ToArrayAsync();
+                CurrentWords = await Application.Words.Connection.Table<DbWord>().Where(word => word.TypeId == typeId &&
+                    word.Language == LocalizationManager.Instance.CurrentCulture.Name).ToArrayAsync();
                 if (CurrentWords.Count() > 0)
                 {
                     foreach (var word in CurrentWords.OrderBy(w => w.Value.ToLower()))

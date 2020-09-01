@@ -199,7 +199,7 @@ namespace Чтение.Pages
                         if (CurrentWord != null && NewWord != CurrentWord.Value)
                         {
                             await Application.Words.Connection.InsertOrReplaceAsync(new DbWord() { Id = CurrentWord.Id, TypeId = CurrentWord.TypeId, Value = NewWord,
-                                Source = CurrentWord.Source });
+                                Source = CurrentWord.Source, Language = CurrentWord.Language });
                             UpdateWords();
                         }
                         break;
@@ -385,7 +385,7 @@ namespace Чтение.Pages
             WordsList.Items.Clear();
             if (!EditMode)
             {
-                Words = Application.Words.Connection.Table<DbWord>().Where(w => w.TypeId == CurrentType);
+                Words = Application.Words.Connection.Table<DbWord>().Where(w => w.TypeId == CurrentType && w.Language == LocalizationManager.Instance.CurrentCulture.Name);
                 if (await Words.CountAsync() > 0)
                 {
                     foreach (var word in await Words.ToArrayAsync())
